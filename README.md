@@ -2,9 +2,12 @@
 [ISHI会版OpenMPW TR10-2の OPAMPのグループワーク](https://ishi-kai.org/openmpw/shuttle/tr10/2025/08/01/shuttle_ISHI-Kai_OpenMPW-TR10-2_start.html)
 　
 ## 感想
-あいうえお  
-かきくけこ  
-さしすせそ
+Yuki Matsushima  
+感想  
+B  
+乾燥  
+Reo  
+完走  
 
 ## 回路図
 ![Schematic](images/schematic.png)

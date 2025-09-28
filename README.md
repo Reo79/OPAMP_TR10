@@ -17,13 +17,10 @@ Reo
 ## 回路図
 ![Schematic](images/schematic.png)
 
-## レイアウト
-![Layout](images/layout.png)
-
-
 ## オープンループ特性
 ![利得](images/gain.png)
 ![位相](images/phase.png)
 
-
+## レイアウト
+![Layout](images/layout.png)
 

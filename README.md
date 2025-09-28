@@ -15,18 +15,18 @@
 | スルーレート | 9.0 V/μs |
 
 ## 回路図
-![Schematic](images/schematic.jpeg)
+![Schematic](images/schematic.png)
 
 ## レイアウト
-![Layout](images/layout.jpeg)
+![Layout](images/layout.png)
 
 
 ## オープンループ特性
-![利得](images/gain.jpeg)
-![位相](images/phase.jpeg)
+![利得](images/gain.png)
+![位相](images/phase.png)
 
 ## CMRR評価
-![CMRR](images/cmrr.jpeg)
+![CMRR](images/cmrr.p7)
 
 ## 過渡応答
-![スルーレート](images/tran.jpeg)
+![スルーレート](images/tran.png)

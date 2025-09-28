@@ -23,7 +23,7 @@ Reo
 
 ## オープンループ特性
 ![利得](images/gain.png)
-
+![位相](images/phase.png)
 
 
 ## 過渡応答

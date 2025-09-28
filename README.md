@@ -26,5 +26,4 @@ Reo
 ![位相](images/phase.png)
 
 
-## 過渡応答
-![スルーレート](images/tran.png)
+

@@ -1,3 +1,5 @@
+# OPAMP_TR10-2
+
 ## 参加イベント
 [ISHI会版OpenMPW TR10-2の OPAMPのグループワーク](https://ishi-kai.org/openmpw/shuttle/tr10/2025/08/01/shuttle_ISHI-Kai_OpenMPW-TR10-2_start.html)
 　

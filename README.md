@@ -3,7 +3,9 @@
 [ISHI会版OpenMPW PTC06-2のOPAMPのグループワーク](https://ishi-kai.org/openmpw/shuttle/ptc06/2025/06/14/shuttle_ISHI-Kai_OpenMPW-PTC06-2_OPAMP_Team.html)
 　
 ## 感想
-
+あいうえお
+かきくけこ
+さしすせそ
 ## 特性
 | 項目 | 値 |
 | --- | --- |

@@ -53,6 +53,7 @@ C {devices/code_shown.sym} -1070 -160 0 0 {name=control only_toplevel=false
 value="
 .option savecurrent
 .control
+set units=degree
 save all
 
 ac dec 20 1 1e10
@@ -66,4 +67,4 @@ m=1
 value=20p
 footprint=1206
 device="ceramic capacitor"}
-C {opamp_cs_full.sym} -390 -140 0 0 {name=x2}
+C {opamp_cs_full.sym} -400 -140 0 0 {name=x2}
